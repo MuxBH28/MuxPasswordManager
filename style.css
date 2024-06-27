@@ -1,0 +1,52 @@
+.main-window {
+    background-color: #001922;
+}
+
+#menu,
+.menu {
+    background-color: #001922;
+    color: #00afef;
+    border: none;
+    border-right: 1px solid #00afef;
+    padding: 10px;
+    min-width: 200px;
+}
+
+.menu-item {
+    background-color: #001922;
+    color: #00afef;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+.menu-item:hover {
+    color: #001922;
+    background-color: #00afef;
+}
+
+#content,
+.content {
+    padding: 20px;
+    background-color: #001922;
+    color: #d1d1d1;
+}
+
+button {
+    background-color: #001922;
+    color: #ffffff;
+    border: 1px solid #00afef;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #00afef;
+    color: #001922;
+}
+
+.menu,
+.paned {
+    border-width: 0;
+}
